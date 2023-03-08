@@ -1,3 +1,5 @@
-# Cambiando el README
-creando un repositorio local y uno remto.
-> sistema de adherencia adecuado.
+## titulo
+> este es un comentario
+* punto
+* segundo punto
+[Propio](https://github.com/gitdexterhub/gitPractica "Propio")
